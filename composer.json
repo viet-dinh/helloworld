@@ -1,6 +1,13 @@
 {
     "name": "viet-dinh/helloworld",
     "description": "Hello World",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viet Dinh",
+            "email": "dinhquocvietpro@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "VietDinh\\HelloWorld\\": "src/",
