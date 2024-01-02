@@ -1,0 +1,13 @@
+{
+    "name": "viet-dinh/helloworld",
+    "description": "Hello World",
+    "autoload": {
+        "psr-4": {
+            "VietDinh\\HelloWorld\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
